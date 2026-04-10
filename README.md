@@ -15,9 +15,9 @@ Build a mini compliance program that looks credible for an early-stage company a
 ISO/IEC 27001 as the ISMS structure, with Annex A used as the control reference set.
 NIST CSF 2.0 as an easy-to-explain risk and governance lens.
 Optional references to NIST SP 800-53 Rev. 5 for concrete control families when you want stronger mapping detail. NIST CSF 2.0 is organized into six Functions: Govern, Identify, Protect, Detect, Respond, and Recover, while SP 800-53 provides a control catalog for security and privacy controls.
-Final portfolio output
 
-By the end, you will have:
+### Final portfolio output
+
 
 - ISMS Scope Document
 
