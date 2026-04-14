@@ -1,5 +1,5 @@
 # GRC-Analyst-Project
-You are the Junior GRC Analyst at TechNova Solutions, a fictional SaaS startup.
+This is a Junior GRC Analyst Project at TechNova Solutions, a fictional SaaS startup.
 
 ### Business profile
 
@@ -27,14 +27,14 @@ Optional references to NIST SP 800-53 Rev. 5 for concrete control families when 
 
 - Security Policies (Word/PDF)
 
-- Control Mapping (ISO 27001 Annex A or NIST)
+- Control Mapping (ISO 27001 Annex A and NIST)
 
 - Audit Checklist
 
 - Audit Report
 
 
-Your role is to:
+The role is to:
 understand the business,
 identify risks,
 document controls,
